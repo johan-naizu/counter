@@ -1,0 +1,4 @@
+aiomysql
+discord
+asyncio
+dislash.py
